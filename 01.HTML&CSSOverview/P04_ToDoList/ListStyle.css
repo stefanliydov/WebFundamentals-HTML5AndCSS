@@ -1,0 +1,9 @@
+#text{
+    text-align: center;
+}
+div{
+    background-color: #f7f381;
+    width: 270px;
+    padding:8px 24px;
+    margin: auto;
+}

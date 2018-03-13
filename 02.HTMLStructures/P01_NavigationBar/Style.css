@@ -1,0 +1,25 @@
+li{
+display: inline-block;
+    margin: 10px;
+
+}
+nav{
+    background-color: slategray;
+    margin-top: 0px;
+}
+a {
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+*{
+    margin-top: 0;
+    margin-left: 0;
+}
+ul{
+    text-align: center;
+}
+html{
+    color:red;
+}

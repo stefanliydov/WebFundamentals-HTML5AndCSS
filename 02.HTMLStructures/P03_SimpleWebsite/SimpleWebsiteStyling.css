@@ -1,0 +1,37 @@
+.list-item{
+    display: inline-block;
+    margin: 10px;
+
+}
+nav{
+    background-color: slategray;
+    margin-top: 0px;
+}
+a {
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    text-decoration: none;
+}
+*{
+    margin-top: 0;
+    margin-left: 0;
+}
+ul{
+    text-align: center;
+}
+.articleData{
+    font-size: 14px;
+    font-style: italic;
+}
+body{
+    background:grey;
+}
+section{
+    text-align: center;
+}
+footer{
+    text-align: center;
+    background: slategray;
+    margin-top: 70px;
+}
