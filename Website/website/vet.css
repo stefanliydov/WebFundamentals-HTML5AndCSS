@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Lato');
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC|Slabo+27px|Titillium+Web');
+@import url('https://fonts.googleapis.com/css?family=Bowlby+One+SC|Nunito|Slabo+27px|Titillium+Web');
+
+body {
+    background: url("images/horse_background-1920x1080.jpg");
+    margin: 0;
+}
+
+div {
+    size: 100px;
+    font-family: "Lato", sans-serif;
+    color: orange;
+    font-weight: bold;
+    font-size: 50px;
+    padding-bottom: 13px;
+}
+
+.profilePic {
+    border-radius: 10px;
+    border: 3px solid darkslategrey;
+    padding: 1px;
+    background-color: slategray;
+    width: 180px;
+    height: 150px;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px 10px;
+}
+
+header {
+background-color: darkslategrey;
+}
+
+header > button {
+    background-color: orange;
+    border: none;
+    padding: 10px;
+    margin: 5px 5px ;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: Titillium+Web sans-serif;
+    font-weight: bold;
+}
+header>button:first-child{
+    margin-left: 15px;
+}
+
+header > button:hover {
+    background-color: grey;
+}
+
+section{
+    text-align: center;
+
+}
+article{
+    background-color: #262626;
+    display: inline-block;
+    margin: 80px 20px 0 20px;
+    border: 5px solid darkslategrey;
+    border-radius: 10px;
+    width: 30%;
+    height: 180px;
+    padding: 10px;
+}
+article>h2{
+    color: orange;
+    font-family: "Lato", sans-serif;
+    text-align: center;
+}
+article>p{
+    font-family: "Nunito", sans-serif;
+    color: lightcyan;
+    text-align: center;
+}
+
